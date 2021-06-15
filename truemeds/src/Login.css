@@ -1,0 +1,15 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-wrapper{
+    text-align: center;
+}
+.input-element{
+    padding: 8px;
+}
+.otp-wrapper{
+    padding-top: 10px;
+}
